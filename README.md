@@ -1,4 +1,4 @@
-Intentionally Vulnerable Java Application testing
+Intentionally Vulnerable Java Application testing testing
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
